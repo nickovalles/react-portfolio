@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import Projects from '../../components/Project'
+import Projects from '../../components/project'
 import portfolio from '../../portfolio.json'
 
 class Portfolio extends Component {
