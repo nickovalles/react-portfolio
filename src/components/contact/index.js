@@ -16,7 +16,7 @@ class ContactForm extends Component {
                         <br />
                         <div>
                         <h2 className="font-weight-bold">
-                        <a href="">Phone: Message Me For The Number </a></h2>
+                        <a href="2403702196">Phone: 240-370-2196 </a></h2>
                         </div>
                         <br />
                 </div>
