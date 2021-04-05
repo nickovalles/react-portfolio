@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal portfolio created using REACT.
+
+[View my Portfolio!](https://nickovalles.github.io/react-portfolio/)
+
+## Questions
+If you have any questions, you can reach me by emailing [nick.ovalles@gmail.com](mailto:nick.ovalles@gmail.com) or follow the link to my gitHub profile [nickovalles](https://github.com/nickovalles).
 
 ## Available Scripts
 
