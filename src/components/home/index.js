@@ -6,7 +6,7 @@ class Home extends Component {
             <section>
             <div className="row hero">
                 <div className="hero-text">
-                    <h1>NICK<span>OVALLES</span></h1>
+                    <h1>NICK <span>OVALLES</span></h1>
                     <h3>DESIGNER</h3>
                 </div>
             </div>

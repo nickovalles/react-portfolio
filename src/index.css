@@ -19,10 +19,10 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary-color: #861657;
-  --secondary-color: #861657;
-  --tertiary-color: #6b0f1a;
-  --body-text: #00132c; 
+  --primary-color: white;
+  --secondary-color: black;
+  --tertiary-color: white;
+  --body-text: black; 
 }
 
 
@@ -37,7 +37,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-  background-image: linear-gradient(326deg, #861657 30%, #ffa69e 74%), url("./assets/cover/cover-image.jpg");
+  background-image: linear-gradient(326deg, rgb(245, 246, 250) 30%, rgb(8, 8, 8) 74%), url("./assets/cover/cover-image.jpg");
 
 }
 
@@ -432,7 +432,7 @@ textarea {
 /* social links */
 
 footer a, footer a:visited { color: rgba(255, 255, 255, 0.8); }
-footer a:hover, footer a:focus { color: #11ABB0; }
+footer a:hover, footer a:focus { color: black; }
 
 footer .social-links {
   margin: 18px 0 30px 0;
