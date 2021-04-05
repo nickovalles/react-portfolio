@@ -1,85 +1,22 @@
 [
     {
     "id": 1,
-    "name": "#",
-    "image": "#",
+    "name": "Run Buddy",
+    "image": "https://raw.githubusercontent.com/nickovalles/react-portfolio/master/src/assets/projects/run-buddy.PNG",
     "github": "#",
     "deployed": "#",
-    "tools": "React, Redux, and Firebase Database, Hosting and Cloud Functions"
+    "tools": "HTML, CSS"
     },
     {
     "id": 2,
-    "name": "#",
-    "image": "#",
+    "name": "Anchor",
+    "image": "https://raw.githubusercontent.com/nickovalles/react-portfolio/master/src/assets/projects/anchor.png",
     "github": "#",
     "deployed": "#",
-    "tools": "React, GraphQL, Node.js, Express.js, Apollo Server, MongoDB/Mongoose, JSON Web Token, PWA"
+    "tools": "HTML, CSS"
     },
     {
     "id": 3,
-    "name": "#",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "Node.js, Express.js, Handlebars.js, MySQL/Sequelize, Jest, MVC Paradigm, Express-Session, Cookies"
-    },
-    {
-    "id": 4,
-    "name": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "React, Node.js, Express.js, MongoDB, GraphQL, Apollo Server, Redux, Stripe, IndexedDB"
-    },
-    {
-    "id": 5,
-    "name": "#",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "React, ContextAPI"
-    },
-    {
-    "id": 6,
-    "name": "#",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "React, Node.js, Express.js, MongoDB, GraphQL, Apollo Server, Google Books API"
-    },
-    {
-    "id": 7,
-    "name": "#",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "React state, props, Hooks"
-    },
-    {
-    "id": 8,
-    "name": "Anchorr",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "Webpack, Service Workers, PWA Web Manifest"
-    },
-    {
-    "id": 9,
-    "name": "Tech Blog",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "MySQL/Sequelize, Express.js, Handlebars.js, Bcrypt, Express-Session, MVC Paradigm"
-    },
-    {
-    "id": 10,
-    "name": "#",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "MongoDB/Mongoose, IndexedDB"
-    },
-    {
-    "id": 11,
     "name": "Budget Tracker",
     "image": "#",
     "github": "#",
@@ -87,19 +24,11 @@
     "tools": "IndexedDB, Service Workers, PWA Web Manifest"
     },
     {
-    "id": 12,
-    "name": "Run Buddy",
-    "image": "#",
+    "id": 4,
+    "name": "bite.",
+    "image": "https://raw.githubusercontent.com/nickovalles/react-portfolio/master/src/assets/projects/bite.PNG",
     "github": "#",
     "deployed": "#",
-    "tools": "HTML, CSS"
-    },
-    {
-    "id": 13,
-    "name": "Horiseon",
-    "image": "#",
-    "github": "#",
-    "deployed": "#",
-    "tools": "HTML, CSS"
+    "tools": "React, Node.js, Express.js, MongoDB, GraphQL, Apollo Server, Redux, Stripe, IndexedDB"
     }
 ]

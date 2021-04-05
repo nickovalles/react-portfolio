@@ -25,7 +25,7 @@ class Resume extends Component {
                 <div className="justify-content-center mt-5" id="resume">
                     <h2 className="font-weight-bold mb-4">Check Out My Resume!</h2>
                     <div>
-                    <a href="https://github.com/nickovalles/react-portfolio/raw/master/src/assets/Nicolas-Ovalles-Resume.docx.pdf" className="text-light text-decoration-none"><FontAwesomeIcon icon={faDownload} size="2x" alt="Download Resume"/></a>
+                    <a href="https://github.com/nickovalles/react-portfolio/raw/main/src/assets/Nicolas-Ovalles-Resume.docx.pdf" className="text-light text-decoration-none"><FontAwesomeIcon icon={faDownload} size="2x" alt="Download Resume"/></a>
                     </div>
                 </div>
 
